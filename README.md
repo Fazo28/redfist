@@ -102,7 +102,7 @@ bash
 bash
 
 # Clone the repository
-     git clone https://github.com/fazo28/redfist.git
+     git clone https://github.com/Fazo28/redfist.git
      cd redfist
 
 # Install required dependencies
