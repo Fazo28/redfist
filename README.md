@@ -45,7 +45,7 @@
 
 
 
-```ascii
+```
 ██████╗ ███████╗██████╗ ███████╗██╗███████╗████████╗
 ██╔══██╗██╔════╝██╔══██╗██╔════╝██║██╔════╝╚══██╔══╝
 ██████╔╝█████╗  ██║  ██║█████╗  ██║███████╗   ██║   
@@ -58,7 +58,7 @@
    Advanced Infrastructure Security Testing                    
 
 
-
+````
 REDFIST (Red Team Framework for Infrastructure Security Testing) is a comprehensive, multi-module penetration testing framework designed for authorized security assessments. Created by Fazo, this tool provides red teams and security professionals with a powerful, all-in-one solution for infrastructure security testing.
 
     🛡️ Professional Grade | Modular Design | Multi-Platform | Actively Maintained
@@ -602,7 +602,7 @@ Check the Troubleshooting section first!
 
     Blockchain security testing modules
 
-<div align="center">
+
 🎉
 
 REDFIST v2.0 - Empowering Security Professionals Worldwide
